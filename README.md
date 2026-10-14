@@ -1,6 +1,6 @@
 # Yu Yu Hakusho: Ankoku Bujutsukai 120% - English patch (PS2)
 
-Fan translation patch for **THE BATTLE OF 幽★遊★白書～死闘！暗黒武術会～120%** (PS2, SLPS-25734).
+Fan translation patch for **THE BATTLE OF 幽★遊★白書～死闘！暗黒武術会～120%** (PS2, SLPS-25734).  Assisted by Claude Code.
 This repository contains no game data - only a binary patch. You need your own dump of the Japanese game.
 
 ## What's translated
